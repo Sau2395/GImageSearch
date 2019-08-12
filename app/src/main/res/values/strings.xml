@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GImageSearch</string>
+    <string name="key">AIzaSyD1Q1o6qjOlwSnZIQn9Ew1TZRzkJiY2Pcg</string>
+    <string name="cx">014189967123654690625:4o6ko_pyhri</string>
+    <string name="baseUrl">https://www.googleapis.com/customsearch/v1?q=</string>
+    <string name="responsetype">json</string>
+</resources>
